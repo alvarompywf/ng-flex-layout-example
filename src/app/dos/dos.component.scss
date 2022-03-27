@@ -1,0 +1,28 @@
+img {
+    max-width: 100%;
+    max-height: auto;
+}
+.divImage {
+    
+    height: 200px;
+    width: 200px;
+
+    @media (max-width: 600px) {
+        height: auto;
+        min-width: 100%;
+        order: 1;
+    }
+}
+
+h1{
+    font-weight: 100;
+    @media (max-width: 600px) {
+        text-align: center;
+    }
+}
+p{
+    @media (max-width: 600px) {
+     order: 0;
+    }
+}
+
