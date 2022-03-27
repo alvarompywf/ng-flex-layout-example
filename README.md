@@ -1,3 +1,12 @@
+# HOW DO YOU SEE IT ?
+
+## MOBILE
+![mobile](src/assets/MOBILE.png)
+
+## DESKTOP
+![desktop](src/assets/DESKTOP.png)
+
+
 # PreubasFlexLayout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
